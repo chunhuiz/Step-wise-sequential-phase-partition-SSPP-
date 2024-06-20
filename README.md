@@ -14,4 +14,5 @@ The data used in this paper is not allowed to be shared. You should prepare your
 
 #### All rights reserved, citing the following paper is required for reference:   
 [1] C. Zhao, and Y. Sun. Step-wise sequential phase partition (SSPP) algorithm based statistical modeling and online process monitoring. Chemometrics and Intelligent Laboratory Systems, 125: 109-120, 2013.
+
 [2] C. Zhao, F. Wang, N. Lu, and M. Jia. Stage-based soft-transition multiple PCA modeling and on-line monitoring strategy for batch processes. Journal of Process Control, 2007, 17(9), 728–741.
